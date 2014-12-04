@@ -52,7 +52,8 @@
     "grunt-resemble-cli": "0.0.8",
     "grunt-text-replace": "0.3.12",
     "nightmare": "git+ssh://git@github.com:dtothefp/nightmare.git",
-    "phantomjs": "~1.9.12"
+    "phantomjs": "~1.9.12",
+    "require-dir": "^0.1.0"
   },
   "licenses": [
     {
